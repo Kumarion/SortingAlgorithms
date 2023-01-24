@@ -9,7 +9,7 @@ Space Complexity: O(1)
 ![alt text](https://www.simplilearn.com/ice9/free_resources_article_thumb/Bubble-Sort-Algorithm-Soni/working-of-bubble-sort-algorithm2.png)
 
 # Insertion
-https://en.wikipedia.org/wiki/Insertion_sort
+https://en.wikipedia.org/wiki/Insertion_sort \n
 Time Complexity: Best: O(n) Average: O(n^2) Worst: O(n^2)
 Space Complexity: O(1)
 
