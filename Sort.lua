@@ -66,6 +66,7 @@ function selectionSort(t, left, right, compareFn)
 end
 
 -- Partition
+-- Partition helper function to partition the array into two parts
 function partition(t, left, right, compareFn)
     local pivot = t[right];
     local i = left - 1;
