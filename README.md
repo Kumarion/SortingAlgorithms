@@ -1,5 +1,5 @@
 # Sorting Algorithms
-Sorting module that uses 4 methods for sorting: Bubble, Insertion, Selection and Quick
+Sorting module written in Luau that uses 4 methods for sorting: Bubble, Insertion, Selection and Quick
 
 # Bubble
 ![alt text](https://www.simplilearn.com/ice9/free_resources_article_thumb/Bubble-Sort-Algorithm-Soni/working-of-bubble-sort-algorithm2.png)
