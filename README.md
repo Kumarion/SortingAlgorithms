@@ -2,9 +2,9 @@
 Sorting module written in Luau that uses 4 methods for sorting: Bubble, Insertion, Selection and Quick
 
 # Bubble
-https://en.wikipedia.org/wiki/Bubble_sort
-Time Complexity: Best: O(n) Average: O(n^2) Worst: O(n^2)
-Space Complexity: O(1)
+https://en.wikipedia.org/wiki/Bubble_sort <br />
+Time Complexity: Best: O(n) Average: O(n^2) Worst: O(n^2) <br />
+Space Complexity: O(1) <br />
 
 ![alt text](https://www.simplilearn.com/ice9/free_resources_article_thumb/Bubble-Sort-Algorithm-Soni/working-of-bubble-sort-algorithm2.png)
 
